@@ -16,7 +16,8 @@ void solve(){
 signed main(){
     // freopen("in","r",stdin);
 
-    int t  =1 ; 
+    int t  ;
+    t = 1; 
     // cin >> t;
     while (t--);
     {
