@@ -6,11 +6,17 @@ typedef pair<int,int>PII;
 #define endl '\n'
 
 
-
+const int N = 2e5+10;
+int a[N];
+int n,m,k;
 
 
 
 void solve(){ 
+    cin >> n ;
+    for (int i = 1;i<=n;++i){
+        cin >> a[i];
+    }
 
 
 
